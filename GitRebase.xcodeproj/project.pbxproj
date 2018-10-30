@@ -16,6 +16,7 @@
 		812A29AD2188A44D002E23FC /* GitRebaseTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 812A29AC2188A44D002E23FC /* GitRebaseTests.swift */; };
 		812A29B82188A44D002E23FC /* GitRebaseUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 812A29B72188A44D002E23FC /* GitRebaseUITests.swift */; };
 		812A29C62188A508002E23FC /* User1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 812A29C52188A508002E23FC /* User1.swift */; };
+		812A29C82188A5B0002E23FC /* User2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 812A29C72188A5B0002E23FC /* User2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		812A29B72188A44D002E23FC /* GitRebaseUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitRebaseUITests.swift; sourceTree = "<group>"; };
 		812A29B92188A44D002E23FC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		812A29C52188A508002E23FC /* User1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User1.swift; sourceTree = "<group>"; };
+		812A29C72188A5B0002E23FC /* User2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				812A29942188A44D002E23FC /* AppDelegate.swift */,
 				812A29962188A44D002E23FC /* ViewController.swift */,
 				812A29C52188A508002E23FC /* User1.swift */,
+				812A29C72188A5B0002E23FC /* User2.swift */,
 				812A29982188A44D002E23FC /* Main.storyboard */,
 				812A299E2188A44D002E23FC /* Assets.xcassets */,
 				812A29A02188A44D002E23FC /* LaunchScreen.storyboard */,
@@ -269,6 +272,7 @@
 				812A29952188A44D002E23FC /* AppDelegate.swift in Sources */,
 				812A29C62188A508002E23FC /* User1.swift in Sources */,
 				812A299D2188A44D002E23FC /* GitRebase.xcdatamodeld in Sources */,
+				812A29C82188A5B0002E23FC /* User2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
